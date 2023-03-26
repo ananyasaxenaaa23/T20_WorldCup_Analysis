@@ -3,8 +3,8 @@ Built a Dashboard for T20 World Cup.
 
 -  [**OVERVIEW**](https://github.com/ananyasaxenaaa23/T20_WorldCup_Analysis/edit/main/README.md#overview)
 -  [**DATA OVERVIEW**](https://github.com/ananyasaxenaaa23/T20_WorldCup_Analysis/edit/main/README.md#dataoverview)
--  [**FRMEWORK**](https://github.com/ananyasaxenaaa23/T20_WorldCup_Analysis/edit/main/README.md)
-
+-  [**FRMEWORK**](https://github.com/ananyasaxenaaa23/T20_WorldCup_Analysis/edit/main/README.md#framework)
+-  [**CONCLUSION**](https://github.com/ananyasaxenaaa23/T20_WorldCup_Analysis/edit/main/README.md#conclusion)
 
 ## Overview
 This Dashboard has been built to do the player Analysis and to see what all players are suitable for T20 World Cup. This Dashboard consists of 5 Categories and all these categories are Openers, Anchors, Finishers, All Rounders and Fast Bowlers.
@@ -36,3 +36,6 @@ Data Modeling includes connecting the different data fieldswith each other and t
 After all the steps mentioned above the data was visualized using Microsoft Power BI. Different insights were generated after the visualization was done.
 
 
+
+## Conclusion
+The conclusion drawn from this dashboard is that which players are suitable for player T20 World Cup amongst all the players all over the world.
