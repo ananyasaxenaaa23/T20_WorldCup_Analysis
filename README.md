@@ -21,4 +21,10 @@ The data has been extracted from the ESPN cricinfo website (https://stats.espncr
 The Framework consists of a few steps.
 
 ## 1. Web Scraping
-The data was extracted from the ESPN site mentioned above. After that web scraping 
+The data was extracted from the ESPN site mentioned above with the help of Web Scraping in JavaScript as it makes the data extraction easy. The data extracted using JavScript will be available in the form of json files.
+
+## 2. Data Preprocessing
+The data was pre processed to remove all the unnecessary elements present in the data including the unnecessary symbols. Also, the data files were converted into CSV format and all the data pre processing was done using Python. 
+
+##3. Data Transformation
+
