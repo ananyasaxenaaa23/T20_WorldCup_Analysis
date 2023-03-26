@@ -21,3 +21,4 @@ The data has been extracted from the ESPN cricinfo website (https://stats.espncr
 The Framework consists of a few steps.
 
 ## 1. Web Scraping
+The data was extracted from the ESPN site mentioned above. After that web scraping 
