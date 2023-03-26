@@ -4,6 +4,7 @@ Built a Dashboard for T20 World Cup.
 -  [**OVERVIEW**](https://github.com/ananyasaxenaaa23/T20_WorldCup_Analysis/blob/main/README.md#overview)
 -  [**DATA OVERVIEW**](https://github.com/ananyasaxenaaa23/T20_WorldCup_Analysis/blob/main/README.md#dataoverview)
 -  [**FRMEWORK**](https://github.com/ananyasaxenaaa23/T20_WorldCup_Analysis/blob/main/README.md#framework)
+-  [**DASHBOARD OVERVIEW**](https://github.com/ananyasaxenaaa23/T20_WorldCup_Analysis/blob/main/README.md#dashboardoverview)
 -  [**CONCLUSION**](https://github.com/ananyasaxenaaa23/T20_WorldCup_Analysis/blob/main/README.md#conclusion)
 
 # Overview
@@ -34,6 +35,14 @@ Data Modeling includes connecting the different data fieldswith each other and t
 
 ## 5. Building a Power BI Dashboard
 After all the steps mentioned above the data was visualized using Microsoft Power BI. Different insights were generated after the visualization was done.
+
+
+
+# Dashboard Overview
+The first Dashboard shows the Player Analysis which consists of the runs, team, batting style, balls faced by them and many more of following players mentioned in the table.
+The scatter plots show their Batting Average, Average Balls Faced, Strike Rate and Boundary % with respect to Match Day in the form of Plots.
+![image](https://user-images.githubusercontent.com/70996037/227791950-afbbdf80-7614-4fe6-98f8-6555b5ac13af.png)
+
 
 
 
