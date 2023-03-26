@@ -30,4 +30,4 @@ The data was pre processed to remove all the unnecessary elements present in the
 After converting the data into csv files the remaining transformations on data were done using Power BI Query. Data Transformation includes changing the column names, column values and also changing the String values into numerical values and vice versa if needed. 
 
 ## 4. Data Modeling
-Data Modeling includes connecting the different data fieldswith each other. Several methods were used for creating different measures like, Average, Sum, Dot Ball % and many more.
+Data Modeling includes connecting the different data fieldswith each other and to create different methods. Several methods were used for creating different measures like, Average, Sum, Dot Ball % and many more.
