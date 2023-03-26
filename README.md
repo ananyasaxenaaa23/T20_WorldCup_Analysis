@@ -3,7 +3,7 @@ Built a Dashboard for T20 World Cup.
 
 -  [**OVERVIEW**](https://github.com/ananyasaxenaaa23/T20_WorldCup_Analysis/edit/main/README.md#overview)
 -  [**DATA OVERVIEW**](https://github.com/ananyasaxenaaa23/T20_WorldCup_Analysis/edit/main/README.md#dataoverview)
-
+-  [**Framework**](https://github.com/ananyasaxenaaa23/T20_WorldCup_Analysis/edit/main/README.md)
 
 
 ## Overview
@@ -13,5 +13,11 @@ Each category has its own Analytical Dashboard. Each player has its own category
 
 
 ## Data Overview
-The data has been taken from the ESPN cricinfo website (https://stats.espncricinfo.com/ci/engine/records/team/match_results.html?id=14450;type=tournament)
+The data has been extracted from the ESPN cricinfo website (https://stats.espncricinfo.com/ci/engine/records/team/match_results.html?id=14450;type=tournament).
 
+
+
+## Framework
+The Framework consists of a few steps.
+
+## 1. Web Scraping
