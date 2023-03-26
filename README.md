@@ -39,11 +39,12 @@ After all the steps mentioned above the data was visualized using Microsoft Powe
 
 
 # Dashboard Overview
-The first Dashboard shows the Player Analysis which consists of the runs, team, batting style, balls faced by them and many more of following players mentioned in the table.
+The first Dashboard shows the Player Analysis of Middle Order Players which consists of the runs, team, batting style, balls faced, Innings Batted by them and many more of following players mentioned in the table.
 The scatter plots show their Batting Average, Average Balls Faced, Strike Rate and Boundary % with respect to Match Day in the form of Plots.
 ![image](https://user-images.githubusercontent.com/70996037/227791950-afbbdf80-7614-4fe6-98f8-6555b5ac13af.png)
 
-
+The second Dashboard shows us the Player Analysis of Openers which consists of the runs, team, batting style, balls faced by them and many more of following players mentioned in the table. 
+The scatter plots show their Batting Average, Average Balls Faced, Strike Rate and Boundary % with respect to Match Day in the form of Plots.
 
 
 # Conclusion
