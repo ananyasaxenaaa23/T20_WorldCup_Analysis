@@ -39,12 +39,34 @@ After all the steps mentioned above the data was visualized using Microsoft Powe
 
 
 # Dashboard Overview
-The first Dashboard shows the Player Analysis of Middle Order Players which consists of the runs, team, batting style, balls faced, Innings Batted by them and many more of following players mentioned in the table.
-The scatter plots show their Batting Average, Average Balls Faced, Strike Rate and Boundary % with respect to Match Day in the form of Plots.
+The first Dashboard shows the Player Analysis of Middle Order Players/Anchors which consists of the runs, team, batting style, balls faced, Innings Batted by them and many more of following players mentioned in the table.
+The Area charts show their Batting Average, Average Balls Faced, Strike Rate and Boundary % with respect to Match Day in the form of Plots.
+The scatter plot shows Batting Average with respect to the Strike Rate of the players mentioned.
 ![image](https://user-images.githubusercontent.com/70996037/227791950-afbbdf80-7614-4fe6-98f8-6555b5ac13af.png)
 
-The second Dashboard shows us the Player Analysis of Openers which consists of the runs, team, batting style, balls faced by them and many more of following players mentioned in the table. 
-The scatter plots show their Batting Average, Average Balls Faced, Strike Rate and Boundary % with respect to Match Day in the form of Plots.
+The second Dashboard shows the Player Analysis of Openers which consists of the runs, team, batting style, balls faced by them and many more of following players mentioned in the table. 
+The stacked area chart shows their Batting Average, Average Balls Faced, Strike Rate and Boundary % with respect to Match Day in the form of Plots.
+The scatter plot shows Batting Average with respect to the Strike Rate of the players mentioned.
+![image](https://user-images.githubusercontent.com/70996037/227793166-9179f7ec-153e-49a2-9091-4c45ceda9d0f.png)
+
+The third Dashboard shows the Player Analysis of Finishers which consists of the runs, team, batting style, balls faced by them and many more of following players mentioned in the table.
+The stacked area chart shows their Batting Average, Bowling Strike Rate, Strike Rate and Economy with respect to Match Day in the form of Plots.
+The scatter plot shows Batting Average with respect to the Strike Rate of the players mentioned.
+![image](https://user-images.githubusercontent.com/70996037/227793278-62c93dfe-89f8-48ab-a542-fb1689fcfeff.png)
+
+The fourth Dashboard shows the Player Analysis of All Rounders which consists of the runs, team, batting style, balls faced by them and many more of following players mentioned in the table.
+The stacked area chart shows their Batting Average, Strike Rate, Bowling Strike Rate and Economy with respect to Match Day in the form of Plots.
+The scatter plot shows Bowling Strike Rate with respect to the Economy of the players mentioned.
+![image](https://user-images.githubusercontent.com/70996037/227793754-e46a49e2-a6e7-41a4-a46c-b3a98cf5705a.png)
+
+The fifth Dashboard shows the Player Analysis of Fast Bowlers which consists of the runs, team, batting style, balls faced by them and many more of following players mentioned in the table.
+The stacked area chart shows their Bowling Average, Dot Ball %, Bowling Strike Rate and Economy with respect to Match Day in the form of Plots.
+The scatter plot shows Bowling Strike Rate with respect to the Economy of the players mentioned.
+![image](https://user-images.githubusercontent.com/70996037/227794139-2b4c0f9a-d7da-46cc-9515-d74c673cbbcb.png)
+
+The last Dashboard shows a Table consisting of Final 12 players choosen on the basis of all the Analysis done.
+![image](https://user-images.githubusercontent.com/70996037/227794192-f7bc8400-8b5d-46dc-89ed-c7e1dd9030ca.png)
+
 
 
 # Conclusion
