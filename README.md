@@ -38,4 +38,4 @@ After all the steps mentioned above the data was visualized using Microsoft Powe
 
 
 # Conclusion
-The conclusion drawn from this dashboard is that which players are suitable for player T20 World Cup amongst all the players all over the world.
+The conclusion drawn from this dashboard is that which players are suitable for player T20 World Cup amongst the players all over the world.
