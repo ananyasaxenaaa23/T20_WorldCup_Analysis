@@ -26,5 +26,6 @@ The data was extracted from the ESPN site mentioned above with the help of Web S
 ## 2. Data Preprocessing
 The data was pre processed to remove all the unnecessary elements present in the data including the unnecessary symbols. Also, the data files were converted into CSV format and all the data pre processing was done using Python. 
 
-##3. Data Transformation
+## 3. Data Transformation
+After converting the data into csv files the remaining transformations on data were done using Power BI Query. Several methods were used for creating different measures like, Average, Sum, Dot Ball % and many more.
 
