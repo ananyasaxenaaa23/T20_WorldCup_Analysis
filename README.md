@@ -33,5 +33,6 @@ After converting the data into csv files the remaining transformations on data w
 Data Modeling includes connecting the different data fieldswith each other and to create different methods. Several methods were used for creating different measures like, Average, Sum, Dot Ball % and many more.
 
 ## 5. Building a Power BI Dashboard
+After all the steps mentioned above the data was visualized using Microsoft Power BI. Different insights were generated after the visualization was done.
 
 
