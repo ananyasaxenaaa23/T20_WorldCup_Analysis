@@ -3,7 +3,7 @@ Built a Dashboard for T20 World Cup.
 
 -  [**OVERVIEW**](https://github.com/ananyasaxenaaa23/T20_WorldCup_Analysis/edit/main/README.md#overview)
 -  [**DATA OVERVIEW**](https://github.com/ananyasaxenaaa23/T20_WorldCup_Analysis/edit/main/README.md#dataoverview)
--  [**Framework**](https://github.com/ananyasaxenaaa23/T20_WorldCup_Analysis/edit/main/README.md)
+-  [**FRMEWORK**](https://github.com/ananyasaxenaaa23/T20_WorldCup_Analysis/edit/main/README.md)
 
 
 ## Overview
@@ -31,3 +31,7 @@ After converting the data into csv files the remaining transformations on data w
 
 ## 4. Data Modeling
 Data Modeling includes connecting the different data fieldswith each other and to create different methods. Several methods were used for creating different measures like, Average, Sum, Dot Ball % and many more.
+
+## 5. Building a Power BI Dashboard
+
+
